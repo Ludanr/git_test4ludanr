@@ -21,5 +21,7 @@ public class service {
         System.out.println("分支第六次更新");
         System.out.println("主线第五次更新");
         System.out.println("主线第六次更新");
+        System.out.println("主线第七次更新");
+
     }
 }

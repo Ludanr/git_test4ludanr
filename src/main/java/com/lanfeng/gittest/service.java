@@ -1,5 +1,7 @@
 package com.lanfeng.gittest;
 
+import org.apache.tomcat.util.net.openssl.OpenSSLUtil;
+
 /**
  * @author lufeng
  * @create 2020-06-12 15:06
@@ -18,5 +20,6 @@ public class service {
         System.out.println("分支第五次更新");
         System.out.println("分支第六次更新");
         System.out.println("主线第五次更新");
+        System.out.println("主线第六次更新");
     }
 }

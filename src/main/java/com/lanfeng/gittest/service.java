@@ -11,5 +11,6 @@ public class service {
         System.out.println("第二次更新");
         System.out.println("第三次更新");
         System.out.println("第一次分支更新");
+        System.out.println("分支第二次更新");
     }
 }
